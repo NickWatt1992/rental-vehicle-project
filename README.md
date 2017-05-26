@@ -19,3 +19,16 @@ The application implements the three classes:
 - A Journey class
 
 - A FuelPurchase class
+
+
+Phase 2.
+
+In your pairs you will now take the basic program from GitHub and add in the following to your code:
+
+- A Vehicle class (PrintToScreen method must also print the total revenue and number of km since the vehicle's last service)
+
+- A PerKmRental class
+
+- A PerDayRental class
+
+- A Service class
