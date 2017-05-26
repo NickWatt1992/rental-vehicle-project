@@ -10,3 +10,12 @@ The application has the following features:
 
 •	Displays fuel economy and average fuel cost 
 
+Requirements
+
+The application implements the three classes:
+
+- A Vehicle class
+
+- A Journey class
+
+- A FuelPurchase class
