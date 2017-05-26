@@ -2,6 +2,7 @@ Phase 1.
 
 This phase of the project examines the problem of managing records for a fleet of motor vehicles for rent. 
 
+
 The application has the following features:
 
 •	Records kilometres travelled and fuel costs
@@ -21,7 +22,9 @@ The application implements the three classes:
 - A FuelPurchase class
 
 
+
 Phase 2.
+
 
 In your pairs you will now take the basic program from GitHub and add in the following to your code:
 
