@@ -35,3 +35,14 @@ In your pairs you will now take the basic program from GitHub and add in the fol
 - A PerDayRental class
 
 - A Service class
+
+
+
+Phase 3.
+
+
+Unit Testing:
+
+Produce a Test document plan unit testing in visual studio.
+
+UNIT TESTING: Choose 1 class and create a unit testing project for the methods in that class. Test all possibilities of input.
